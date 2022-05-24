@@ -1,2 +1,2 @@
 # LeetCode
-Collection of LeetCode questions :)
+A collection of LeetCode questions :)
